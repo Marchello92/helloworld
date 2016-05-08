@@ -1,2 +1,2 @@
 # helloworld
-Hello World script
+'Hello World' homework for Codecool school.
